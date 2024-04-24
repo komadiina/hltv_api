@@ -18,13 +18,14 @@ class Filters:
   LAST_6_MONTHS: str = "" # TODO
   LAST_12_MONTHS: str = "" # TODO
   LAST_YEAR: str = LAST_12_MONTHS
+  DATE_ALL: str = "all"
   
   # player ranking filter constants
-  TOP_5: str = ""
-  TOP_10: str = "" 
-  TOP_20: str = ""
-  TOP_30: str = ""
-  TOP_50: str = ""
+  TOP_5: str = "Top5"
+  TOP_10: str = "Top10" 
+  TOP_20: str = "Top20"
+  TOP_30: str = "Top30"
+  TOP_50: str = "Top50"
   
   # map filter constants
   ANCIENT: str = "de_ancient"
@@ -40,3 +41,4 @@ class Filters:
   SEASON: str = "de_season"
   TRAIN: str = "de_train"
   TUSCAN: str = "de_tuscan"
+  

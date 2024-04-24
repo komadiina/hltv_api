@@ -1,4 +1,4 @@
-# hltv_api
+# hltv_api (WIP)
 Since [HLTV.org](https://www.hltv.org) doesn't provide a public API, and recently with the rise in popularity of Machine Learning and Data Engineering, statistical datasets are more important day by day, I've decided to develop a humble project, targeting those who are in need of things like these. Stop wasting your time hand-collecting data, or incorporate this package in your webservice, whatever.
 
 ## DISCLAIMER
